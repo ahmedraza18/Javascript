@@ -1,4 +1,4 @@
-/* 009 Calculator */
+/* Tip Calculator */
 //custom function
 
 function calculateTip() {
